@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rhager27
-- 👀 I’m interested in cross platform apps
-- 🌱 I’m currently learning Visual Studio Xamarin
+- 👀 I’m interested in Android apps
+- 🌱 I’m currently learning Android Compose
 - 📫 How to reach me rhager27@cox.net
 
 <!---
